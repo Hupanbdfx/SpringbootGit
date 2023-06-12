@@ -10,12 +10,10 @@ public class HelloController {
     public String startSpringBoot(){
         return "hello springboot github";
     }
-<<<<<<< HEAD
-=======
 
     @RequestMapping("/hello")
     public  String sayHello(){
-        return  "This is hello method";
+        return  "This is hello methodsayhello";
     }
->>>>>>> 9427b07 (Initial commit)
+
 }
