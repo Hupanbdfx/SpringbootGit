@@ -15,7 +15,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public  String sayHello(){
-        return  "This is hello method";
+        return  "This is hello methodsayhello";
     }
 >>>>>>> 9427b07 (Initial commit)
 }
